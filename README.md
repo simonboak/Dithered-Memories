@@ -2,7 +2,7 @@
 
 Animated outrun-inspired aesthetic for your classic Macintosh
 
-![Dithered Memories Icon](https://unimplementedtrap.com/media/dm/Dithered-Memories-Animation.png)
+![Dithered Memories Icon](https://unimplementedtrap.com/media/dm/Dithered-Memories-Animation.gif)
 
 © Simon Boak, 2021
 
