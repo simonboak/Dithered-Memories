@@ -1,18 +1,19 @@
-#– D I T H E R E D   M E M O R I E S –
+# – D I T H E R E D   M E M O R I E S –
 
 Animated outrun-inspired aesthetic for your classic Macintosh
 
 ![Dithered Memories Icon](https://unimplementedtrap.com/media/dm/Dithered-Memories-Icon.png)
 
 © Simon Boak, 2021
+
 https://unimplementedtrap.com/dithered-memories
 
-##In this repository
+## In this repository
 
-- The downloads folder contains the 68k Macintosh application available in either a Stuffit archive, or 800k floppy image.
-- Inside the source folder is the main C file, and also the full THINK C 5.0 project folder as a Stuffit archive.
+- The downloads folder contains the 68k Macintosh application available in either a StuffIt archive, or 800k floppy image.
+- Inside the source folder is the main C file, and also the full THINK C 5.0 project folder as a StuffIt archive.
 
-##About
+## About
 
 ![Dithered Memories Screenshot](https://unimplementedtrap.com/media/dm/Dithered-Memories-Screenshot.png)
 
