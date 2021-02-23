@@ -2,7 +2,7 @@
 
 Animated outrun-inspired aesthetic for your classic Macintosh
 
-![Dithered Memories Icon](https://unimplementedtrap.com/media/dm/Dithered-Memories-Icon.png)
+![Dithered Memories Icon](https://unimplementedtrap.com/media/dm/Dithered-Memories-Animation.png)
 
 © Simon Boak, 2021
 
@@ -14,8 +14,6 @@ https://unimplementedtrap.com/dithered-memories
 - Inside the source folder is the main C file, and also the full THINK C 5.0 project folder as a StuffIt archive.
 
 ## About
-
-![Dithered Memories Screenshot](https://unimplementedtrap.com/media/dm/Dithered-Memories-Screenshot.png)
 
 This is just a fun little experiment where I taught myself rudimentary Macintosh programming using Symantec THINK C 5.0.
 
