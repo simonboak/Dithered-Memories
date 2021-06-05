@@ -26,4 +26,7 @@ Open up the application, put on your favourite vaporwave, synthwave, or other re
 This is not a screensaver! If left running long enough it may cause screen burn-in.
 
 
+![Dithered Memories Disk](https://unimplementedtrap.com/media/dm/dithered-memories-disk.jpg)
+
+
 
