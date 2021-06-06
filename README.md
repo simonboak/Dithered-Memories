@@ -6,8 +6,6 @@ Animated outrun-inspired aesthetic for your classic Macintosh
 
 © Simon Boak, 2021
 
-https://unimplementedtrap.com/dithered-memories
-
 ## In this repository
 
 - The downloads folder contains the 68k Macintosh application available in either a StuffIt archive, or 800k floppy image.
